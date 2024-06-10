@@ -13,6 +13,96 @@
   -  A tela de notícias mostra notícias do mundo da moedas vrituais;
   -  A tela de perfil busca os dados no async storage e exibe na tela;  
 </p>
+
+<h2>:arrow_forward: Software em ação</h2>
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/b364108e-8af6-4076-b09c-0b00ae5d068f" height='800px'>
+  
+  >Tela inicial
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/7292e8ab-1d90-4181-963e-6b1027c5afca" height='800px'>
+  
+  >Tela de login
+  
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/19f124b7-be3a-472f-8079-c50c1f7e933c" height='800px'>
+  
+  >Tela de cadastro
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/2b26d18e-9773-42a0-b0d9-39bd62416a36" height='800px'>
+  
+  >Tela de moedas
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/0807cf74-8c98-4e3b-b47e-edc841615b8d" height='800px'>
+  
+  >Tela de moeda após clicar em alguma moeda
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/3204202f-0f99-4634-b8ce-305aeede7086" height='800px'>
+  
+  >Tela de moeda após pesquisar algum nome
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/d828fb48-a54e-48dc-b45f-94c18e7329d7" height='800px'>
+  
+  >Tela de conversão
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/9d5581c3-4a4d-41b8-af8e-61fa322f41b1" height='800px'>
+  
+  >Tela de conversão após realizar alguma conversão entre moedas
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/5c1d237f-7a91-46b4-a532-6319eb6e5d1f" height='800px'>
+  
+  >Tela de notícias
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/2e4ea008-201e-418b-a9cb-1b76daa066c7" height='800px'>
+  
+  >Tela de notícias após clicar em alguma notícia
+
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/CoinExpress/assets/95144250/49dfb5dc-4009-442c-8058-17a19d683267" height='800px'>
+  
+  >Tela de perfil
+
+  <br>
+</div>
+
   
 <h2>🔨 Funcionalidades</h2>
 
