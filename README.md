@@ -6,11 +6,15 @@
 
 <h2>Descrição</h2>
 <p>
-  Inicialmente, baseado no tema de criptomoedas, o projeto foi desenvolvido com o intuito de fornecer informações e realizar conversão das moedas, além de notícias do mundo de criptomoedas.
+  Inicialmente, baseado no tema de criptomoedas, o projeto foi desenvolvido com o intuito de fornecer informações e realizar conversão das moedas, além de notícias do mundo de criptomoedas.<br>
   Cada tela dentro do Software possui sua finalidade:
+  
   -  A tela Moedas apresenta diversas moedas virtuais, que ao receber o clique, mostra informações sobre tal moeda;
+  
   -  A tela Conversão é responsável por fazer conversão entre moedas;
+ 
   -  A tela de notícias mostra notícias do mundo da moedas vrituais;
+  
   -  A tela de perfil busca os dados no async storage e exibe na tela;  
 </p>
 
